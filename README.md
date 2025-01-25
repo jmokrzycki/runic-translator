@@ -1,3 +1,3 @@
-How to run:
-yarn
-yarn dev
+How to run:\
+yarn\
+yarn dev\
